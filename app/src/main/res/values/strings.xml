@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NumberTrivia</string>
+    <string name="action_settings">Settings</string>
+    <string name="number">20</string>
+    <string name="quote">20 is the number of ounces in Venti size coffees at Starbucks coffee shops.</string>
+</resources>
